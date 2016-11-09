@@ -1,0 +1,3 @@
+rootProject.name = 'RNShuttleBusComing'
+
+include ':app'
